@@ -1,0 +1,15 @@
+Výhody komprese dat:
+
+Úspora místa: Komprese dat umožňuje ukládat a přenášet soubory s menším objemem, což znamená úsporu místa na úložištích nebo zařízeních.
+Rychlejší přenos dat: Menší objem dat umožňuje rychlejší přenos přes síťová spojení, což je užitečné zejména při odesílání nebo stahování souborů přes internet.
+Zvýšení efektivity zálohování: Kompresované soubory mohou znamenat efektivnější zálohování, protože zabírají méně místa.
+Rychlejší zpracování dat: Při práci s komprimovanými soubory může docházet k rychlejšímu zpracování, protože je třeba manipulovat s menším množstvím dat.
+
+
+Nevýhody komprese dat:
+
+Ztráta kvality: Některé metody komprese dat mohou vést k ztrátě kvality, což je nežádoucí v případech, kde je zachování vysoké kvality nezbytné (např. u multimediálních souborů).
+Ztráta informací: Některé kompresní algoritmy odstraní redundanci nebo jemné detaily, což může vést ke ztrátě určitých informací.
+Náročnost na výpočetní zdroje: Některé metody komprese mohou být náročné na výpočetní zdroje, což může být problém v případě zařízení s omezeným výkonem.
+Zvýšená latence: Při kompresi a dekompresi dat může docházet k zvýšené latenci, což může být nežádoucí v případech, kde je klíčová rychlost odezvy.
+
