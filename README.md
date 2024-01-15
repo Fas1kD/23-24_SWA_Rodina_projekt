@@ -1,4 +1,4 @@
-# Rodina_projekt
+# Rodina_projekt_(formáty dat)
 
 Výhody a nevýhody komprese dat
 
